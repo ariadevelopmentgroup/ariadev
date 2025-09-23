@@ -23,4 +23,4 @@
 
 ## 🌐 Հղում
 
-[Aria Development Group](https://ariadevelopmentgroup.github.io/ariadev/)
+Ծրագիր նախագծումը՝ [Aria Development Group](https://github.com/ariadevelopmentgroup/ariadev/edit/main/README.md)։
