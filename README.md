@@ -23,4 +23,4 @@
 
 ## 🌐 Հղում
 
-[Aria Development Group](https://ariadevgroup.com)
+[Aria Development Group](https://ariadevelopmentgroup.github.io/ariadev/)
