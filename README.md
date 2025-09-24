@@ -1,26 +1,12 @@
-# PDF Converter Installer
+# Aria Converter
 
-Այս installer-ը տեղադրում է PDF → DOCX / PNG / JPG փոխակերպիչ ծրագիր՝ splash screen-ով, պատկերակով և բազմալեզու wizard-ով։
+Aria Converter-ը բազմաֆունկցիոնալ ֆայլերի փոխակերպման ծրագիր է՝ ստեղծված Python-ով։ Այն աջակցում է PDF, DOCX, PNG, JPG, XLSX ֆորմատներ, ինչպես նաև OCR և DPI վերլուծություն։
 
-## 💻 Տեղադրում (Windows)
+## 🔧 Տեղադրում
 
-1. Բացիր `PDFConverterInstaller.exe`
-2. Ընտրիր լեզուն՝ English կամ Հայերեն
-3. Սեղմիր "Install"՝ տեղադրելու համար `$PROGRAMFILES\PDFConverter`
-4. Աշխատասեղանին կստեղծվի shortcut
+### 1. Կլոնավորեք GitHub-ից
 
-## 📦 Installer-ի հնարավորություններ
-
-- ✅ Splash Screen
-- ✅ Custom Icons
-- ✅ Multilingual Setup Wizard
-- ✅ OCR + Optimized Images
-- ✅ ZIP ներբեռնում
-
-## 🛠️ Ծրագրի աղբյուրը
-
-Ծրագիրը գրված է Python-ով՝ օգտագործելով tkinter, pdf2docx, pytesseract, fitz, pillow, docx
-
-## 🌐 Հղում
-
-Ծրագիր նախագծումը՝ [Aria Development Group](https://github.com/ariadevelopmentgroup/ariadev/edit/main/README.md)։
+```bash
+git clone https://github.com/yourusername/aria-converter.git
+cd aria-converter
+```
